@@ -146,11 +146,18 @@ Python – Elements frequency in Tuple
 
 Python – Filter Range Length Tuples
 
+
 Python – Assign Frequency to Tuples
 
 Python – Records with Value at K index
 
 Python – Test if tuple is distinct
+
+Concatenate all keys which have similar values
+
+Python Program to Find Duplicate sets in list of sets
+
+Python – Find union of multiple sets
 
 
 

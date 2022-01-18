@@ -51,6 +51,48 @@ Months.discard("Feb"); #will not give an error although the key feb is not avail
 print("\nprinting the modified set...")
 print(M2)
 print("\nRemoving items through remove() method...");
-Months.remove("Jan") #will give an error as the key jan is not available in the set.
+#Months.remove("Jan") #will give an error as the key jan is not available in the set.
 print("\nPrinting the modified set...")
 print(M2)
+print("Set operations")
+Day1 = {"Monday","Tuesday","Wednesday","Thursday","Sunday"}
+Day2 = {"Friday","Saturday","Sunday"}
+print(Day1|Day2)
+print("union method")
+print(Day1.union(Day2))
+print("intersection")
+print(Day1&Day2)
+print("intersection")
+print(Day1.intersection(Day2))
+
+print("intersection_update")
+a = {"Devansh", "bob", "castle"}
+b = {"castle", "dude", "emyway"}
+c = {"fuson", "gaurav","castle"}
+a.intersection_update(b,c)
+print(a)
+print("difference")
+Days1 = {"Monday",  "Tuesday", "Wednesday", "Thursday"}
+Days2 = {"Monday", "Tuesday", "Sunday"}
+print(Days1-Days2)
+print(Days1.difference(Days2))
+print("symmetric difference")
+a = {1,2,3,4,5,6}
+b = {1,2,9,8,10}
+c = a ^ b
+print(c)
+print(a.symmetric_difference(b))
+
+print("set comparisons")
+Days1 = {"Monday", "Tuesday", "Wednesday", "Thursday"}
+Days2 = {"Monday", "Tuesday"}
+Days3 = {"Monday", "Tuesday", "Friday"}
+
+# Days1 is the superset of Days2 hence it will print true.
+print(Days1 > Days2)
+
+# prints false since Days1 is not the subset of Days2
+print(Days1 < Days2)
+
+# prints false since Days2 and Days3 are not equivalent
+print(Days2 == Days3)

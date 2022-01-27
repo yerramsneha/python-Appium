@@ -159,6 +159,55 @@ Python Program to Find Duplicate sets in list of sets
 
 Python – Find union of multiple sets
 
+Python program to check whether the string is Symmetrical or Palindrome
+
+Reverse words in a given String in Python
+
+Ways to remove i’th character from string in Python
+
+Find length of a string in python (4 ways)
+
+Python program to print even length words in a string
+
+Python | Sort Python Dictionaries by Key or Value
+
+Handling missing keys in Python dictionaries
+
+Python dictionary with keys having multiple inputs
+
+Python program to find the sum of all items in a dictionary
+
+Python program to find the size of a Dictionary
+
+How to get list of parameters name from a function in Python?
+
+How to Print Multiple Arguments in Python?
+
+Python program to find the power of a number using recursion
+
+Sorting objects of user defined class in Python
+
+Functions that accept variable length key value pair as arguments
+
+Program to print half Diamond star pattern
+
+Programs for printing pyramid patterns in Python
+
+Program to print the diamond shape
+
+Python | Print an Inverted Star Pattern
+
+Python Program to print digit pattern
+
+Python program to build flashcard using class in Python
+
+Shuffle a deck of card with OOPS in Python
+
+How to create an empty class in Python?
+
+Student management system in Python
+
+
 
 
 

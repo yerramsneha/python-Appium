@@ -207,6 +207,18 @@ How to create an empty class in Python?
 
 Student management system in Python
 
+Element-wise addition of 2 numpy arrays
+
+Multiplying a matrix (numpy array) by a scalar
+
+Getting the positions (indexes) where elements of 2 numpy arrays match
+
+Array Generation of random integers within a specified range
+
+Matrix Multiplication
+
+Matrix Transpose
+
 
 
 
